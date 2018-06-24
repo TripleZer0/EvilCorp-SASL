@@ -1,12 +1,12 @@
 # EvilCorp-SASL
 EvilCorp Irc SASL setup 
-This is an easy tutorial made by TripleZer0 for hexchat users to conn$
-SASL in EvilCorp/Fsociety IRC.(only tested on ubuntu) It's pretty sim$
-as well. If you need help please contact me, TripleZer0 on EvilCorp/F$
+his is an easy tutorial made by TripleZer0 for hexchat users to connect to
+SASL in EvilCorp/Fsociety IRC.(only tested on ubuntu) It's pretty simple to edit for other servers
+as well. If you need help please contact me, TripleZer0 on EvilCorp/Fsociety
 IRC.
 
 STEP 1:
-        Add A new Network to your hexchat hetwork list. Click top lef$
+        Add A new Network to your hexchat hetwork list. Click top left
 "hexchat" then click add. Name it "fsocietySASL". Next click edit use
 server "fsociety.evilcorp.ga/6697". Then select these boxes "connect
 to this network automatically", "Use SSL for all servers on this
@@ -22,6 +22,10 @@ autosasl). Then to run use the command "./startsasl". It wil ask for
 some input and it doesnt need to be real. Then when the script is
 done the very last long will have a string of random letter and
 numbers. Copy this you will need it for step 3.
+his is an easy tutorial made by TripleZer0 for hexchat users to connect to
+SASL in EvilCorp/Fsociety IRC.(only tested on ubuntu) It's pretty simple to edit for other servers
+as well. If you need help please contact me, TripleZer0 on EvilCorp/Fsociety
+IRC.
 
 STEP 3:
         Open back up your hexchat (close and re open if needed).
@@ -32,3 +36,5 @@ certificate list." You've done it right. :)
 ---------------------------------------------------------------
 AGAIN if any help is needed come talk to me, TripleZer0, I will do my
 best. Enjoy More Security :P
+
+
