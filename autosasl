@@ -1,0 +1,12 @@
+#!/bin/bash  
+
+##create cert dir
+osboxes@osbexes:mkdir ~/.config/hexchat/certs
+
+##create fsociety cert
+openssl req -x509 -sha256 -nodes -days 365 -newkey rsa:4096 -keyout ~/.config/hexchat/certs/fsocietySASL.pem -out ~/.config/hexchat/certs/fsocietySASL.pem
+
+##edit fsociety cert
+openssl x509 -in ~/.config/hexchat/certs/client.pem -outform der | sha1sum -b | cut -d \  -f1
+
+
