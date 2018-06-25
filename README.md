@@ -7,7 +7,6 @@ Steps: <br/>
 2. Use command (chmod +x autosasl.sh).<br/>
 3. Run using command (./autosasl.sh).<br/>
 4. Follow instructions at the end of program.<br/>
+!!!ALSO it creates a new network in your network list so use that one!!!
 ---------------------------------------------------------------
 Enjoy More Security :P
-
-
